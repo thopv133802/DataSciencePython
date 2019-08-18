@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dedc92da-46db-4a98-927d-8867cb13649c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1PRytnIOspUIzncAm46oQ9EFXzU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dedc92da-46db-4a98-927d-8867cb13649c" name="Default Changelist" comment="" />
+      <created>1565851420888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565851420888</updated>
+      <workItem from="1565851422515" duration="13038000" />
+      <workItem from="1565875160893" duration="2353000" />
+      <workItem from="1565877667373" duration="2516000" />
+      <workItem from="1565880850609" duration="48000" />
+      <workItem from="1565881273502" duration="2550000" />
+      <workItem from="1565884050316" duration="173000" />
+      <workItem from="1565927310216" duration="2169000" />
+      <workItem from="1565930053457" duration="3179000" />
+      <workItem from="1565936859971" duration="879000" />
+      <workItem from="1565937779352" duration="1810000" />
+      <workItem from="1565941115146" duration="6829000" />
+      <workItem from="1565959131130" duration="426000" />
+      <workItem from="1565959592531" duration="6248000" />
+      <workItem from="1566003482723" duration="4800000" />
+      <workItem from="1566009777988" duration="12687000" />
+      <workItem from="1566047469619" duration="1997000" />
+      <workItem from="1566055517067" duration="106000" />
+      <workItem from="1566089682759" duration="6247000" />
+      <workItem from="1566095999612" duration="550000" />
+      <workItem from="1566108917030" duration="6528000" />
+      <workItem from="1566140512164" duration="3815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
